@@ -80,18 +80,18 @@ body{
     width: 85%;
     height: auto;
     float: left;
-    font-size: 12px;
+    font-size: 13px;
 }
 .item-list  .fa{
     width: 15%;
     height: auto;
     float: left;
-    font-size: 13px;
+    font-size: 14px;
 }
 .item-left-p{
     font-size: 10px;
     color: white;
-    padding-top: 10px;
+    padding-top: 14px;
 }
 .strong{
     font-size: 13px;
@@ -100,7 +100,7 @@ body{
     width: 100%;
     height: auto;
     margin-top: 10px;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .item-category-skill{
@@ -120,7 +120,7 @@ body{
     color: black;
     list-style-type: circle;
     padding: 4px;
-    font-size: 13px;
+    font-size: 14px;
     text-align: center;
 }
 .container-left-top-right-header{
@@ -135,7 +135,7 @@ body{
 .detail-manager-user p{
     width: 100%;
     text-align: center;
-    font-size: 13px;
+    font-size: 14px;
     color: white;
 }
 .container-left-top-right-layout{
@@ -170,7 +170,7 @@ body{
     font-size: 14px;
 }
 .item-category-skill-app p{
-    font-size: 12px;
+    font-size: 14px;
 }
 .right-top-header-top{
     margin-top: 50px;
@@ -214,7 +214,7 @@ body{
   
 }
 .detail-lorem{
-    font-size: 13px;
+    font-size: 14px;
     color: black;
     padding: 20px;
 }
@@ -257,7 +257,7 @@ body{
 }
 .senior-manager-item-address p{
     color: #253847;
-    font-size: 13px;
+    font-size: 14px;
 }
 .senior-manager-item-detail{
     width: 100%;
@@ -265,6 +265,6 @@ body{
 }
 .senior-manager-item-detail p{
     color: black;
-   font-size: 13px;
+   font-size: 14px;
     
 }

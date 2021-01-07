@@ -18,7 +18,7 @@ body{
     
 }
 .container-left{
-    width: 27%;
+    width: 28%;
     height: 100%;
     background-color: #253847;
     float: left;
@@ -168,9 +168,13 @@ body{
 }
 .item-category-skill-app .name-senior-category{
     font-size: 14px;
+    padding-bottom: 10px;
 }
-.item-category-skill-app p{
+/* .item-category-skill-app ul   */
+.item-category-skill-app ul li{
+    list-style-type:  square   ;
     font-size: 14px;
+    margin-left: 15px;
 }
 .right-top-header-top{
     margin-top: 50px;
@@ -247,8 +251,8 @@ body{
     font-size: 14px;
 }
 .date-senior-category{
-    color: #253847;
-    font-size: 10px;
+    color: black;
+    font-size: 12px;
 }
 .senior-manager-item-address{
     width: 100%;

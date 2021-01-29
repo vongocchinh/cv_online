@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto';
 }
 body{
     background-color: #AAAAAA;
@@ -13,9 +13,9 @@ body{
     width: 66%;
     margin-top: 50px;
     margin-bottom: 50px;
-    height: 1600px;
+    height: 1460px;
     background-color: white;
-    
+    float: left;
 }
 .container-left{
     width: 28%;
@@ -27,7 +27,6 @@ body{
 .container-right{
     width: 70%;
     height: 100%;
-    
     float: right;
 }
 .container-left-top-images{
@@ -54,8 +53,15 @@ body{
 }
 .item-contact-left{
     width: 100%;
-    min-height: 180px;
+    height: 170px;
     margin-top: 70px;
+   
+}
+.item-contact-right{
+    width: 100%;
+    min-height: 120px;
+    margin-top: 20px;
+    height: auto;
    
 }
 .heading-item-left{

@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: 'Roboto';
+    font-family: 'Helvetica';
 }
 body{
     background-color: #AAAAAA;
@@ -229,13 +229,13 @@ body{
     padding: 20px;
 }
 .REFERENCES{
-    width: 17%;
+    width: 40%;
 }
 .EXPERIENCE{
-    width: 25%;
+    width: 40%;
 }
 .Skill{
-    width: 30%;
+    width: 40%;
 }
 .senior-manager{
     width: 100%;
@@ -243,7 +243,7 @@ body{
     padding: 20px;
 }
 .web{
-    width: 35%;
+    width: 40%;
 }
 .senior-manager-item{
     width: 100%;
@@ -273,8 +273,9 @@ body{
     width: 100%;
     height: auto;
 }
-.senior-manager-item-detail p{
+.senior-manager-item-detail li{
     color: black;
    font-size: 14px;
+   list-style-type: square;
     
 }
